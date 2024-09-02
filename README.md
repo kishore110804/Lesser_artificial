@@ -1,4 +1,4 @@
-# Lesser_artificial**
+
 # Virtual World with Evolving AI NPCs
 
 ## Overview
